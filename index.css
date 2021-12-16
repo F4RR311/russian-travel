@@ -1,0 +1,56 @@
+.page {
+    font-family: 'Inter', Arial, sans-serif;
+    width: 100%;
+    color: white;
+    margin: 0;
+    background-color: #2A2C2F;
+
+}
+.page-container{
+    min-width: 320px;
+    max-width: 1280px;
+}
+.header {
+    max-width: 1184px;
+    min-height:52px;
+    display: flex;
+}
+
+.header__logo{
+    position: relative;
+    left: 48px;
+    top: 28px;
+}
+.header__link{
+
+    color: white;
+}
+
+
+.lead__title {
+
+    min-width: 320px;
+    max-width: 1024px;
+    height: 200px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+
+}
+
+.lead__image {
+
+    object-fit: cover;
+
+
+}
+.photo-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.photo-grid__item{
+    width: 50%;
+}
