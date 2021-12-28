@@ -8,13 +8,14 @@
     position: relative;
     z-index: 3;
 }
-@media (max-width : 1023px) {
+
+@media (max-width: 1023px) {
     .cover__subtitle {
         margin: 45px auto 40px;
     }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .cover__subtitle {
         font-size: 14px;
         line-height: 17px;
@@ -23,7 +24,7 @@
     }
 }
 
-@media (max-width : 374px) {
+@media (max-width: 374px) {
     .cover__subtitle {
         width: 90%;
     }

@@ -9,19 +9,19 @@
     margin: 48px auto 0;
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .lead__subtitle {
         max-width: 650px;
     }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .lead__subtitle {
         max-width: 300px;
     }
 }
 
-@media (max-width : 425px) {
+@media (max-width: 425px) {
     .lead__subtitle {
         font-size: 1rem;
         line-height: 23px;

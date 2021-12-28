@@ -5,7 +5,7 @@
     font-weight: bold;
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
     .intro__achieve {
         font-size: 12px;
         line-height: 19px;

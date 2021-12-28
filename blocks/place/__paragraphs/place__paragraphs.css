@@ -4,14 +4,14 @@
 }
 
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .place__paragraphs {
         max-width: 343px;
         margin: 0 auto;
     }
 }
 
-@media (max-width : 374px) {
+@media (max-width: 374px) {
     .place__paragraphs {
         max-width: 288px;
         margin: 0 auto;
