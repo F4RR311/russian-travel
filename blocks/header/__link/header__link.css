@@ -9,7 +9,7 @@
 
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .header__link {
         font-size: 18px;
         line-height: 96.82%;
