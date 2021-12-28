@@ -1,0 +1,5 @@
+.header__link.header__link_status_active {
+    text-decoration-line: underline;
+    cursor: default;
+
+}
