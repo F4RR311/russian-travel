@@ -19,9 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718f987b-b919-447e-a6e2-7b772a91b30c" name="Default Changelist" comment="&quot;фикс отступов&quot;">
+    <list default="true" id="718f987b-b919-447e-a6e2-7b772a91b30c" name="Default Changelist" comment="&quot;final fix&quot;">
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__figure/lead__figure.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link-list/header__link-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link-list/header__link-list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list-number/intro__list-number.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list-number/intro__list-number.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/links/links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/links/links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowPull Requests.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/russian-travel-master (1)" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/1212" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,7 +98,13 @@
       <workItem from="1640725042532" duration="117000" />
       <workItem from="1641230397873" duration="162000" />
       <workItem from="1641230602388" duration="20814000" />
-      <workItem from="1641281136160" duration="13170000" />
+      <workItem from="1641281136160" duration="13283000" />
+      <workItem from="1641297481736" duration="210000" />
+      <workItem from="1641297872071" duration="331000" />
+      <workItem from="1641301729084" duration="102000" />
+      <workItem from="1641314342151" duration="19000" />
+      <workItem from="1641371911056" duration="2315000" />
+      <workItem from="1641388297075" duration="8232000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;создал скелет+структуру БЭМ&quot;">
       <created>1639694912391</created>
@@ -150,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641296947710</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;final fix&quot;">
+      <created>1641297265606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641297265606</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,25 +203,26 @@
     <MESSAGE value="&quot;изменен lead+cover переписал CSS&quot;" />
     <MESSAGE value="&quot;изменен footer+header+cover переписал весь CSS&quot;" />
     <MESSAGE value="&quot;фикс отступов&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;фикс отступов&quot;" />
+    <MESSAGE value="&quot;final fix&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;final fix&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640722243646">
+    <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641379277839">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1640722243646" />
-    <state x="740" y="258" key="FileChooserDialogImpl" timestamp="1641296393513">
+    <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641379277839" />
+    <state x="740" y="258" key="FileChooserDialogImpl" timestamp="1641396577706">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="740" y="258" key="FileChooserDialogImpl/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641296393513" />
+    <state x="740" y="258" key="FileChooserDialogImpl/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641396577706" />
     <state x="748" y="218" key="RollbackChangesDialog" timestamp="1639599176872">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="748" y="218" key="RollbackChangesDialog/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1639599176872" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1641296954646">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1641297269211">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641296954646" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641297269211" />
     <state x="777" y="152" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639689113177">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

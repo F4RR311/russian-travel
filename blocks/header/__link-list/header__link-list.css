@@ -1,6 +1,6 @@
 .header__link-list {
     display: flex;
     list-style-type: none;
-    margin:auto 0 auto auto;
-
+    margin: auto 0 auto auto;
+    padding: 0;
 }
