@@ -19,22 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718f987b-b919-447e-a6e2-7b772a91b30c" name="Default Changelist" comment="&quot;final fix&quot;">
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__figure/lead__figure.css" afterDir="false" />
+    <list default="true" id="718f987b-b919-447e-a6e2-7b772a91b30c" name="Default Changelist" comment="&quot;фикс замечаний&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__link-list/header__link-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link-list/header__link-list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list-number/intro__list-number.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list-number/intro__list-number.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/links/links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/links/links.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,8 +55,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowPull Requests.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/1212" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -104,7 +95,16 @@
       <workItem from="1641301729084" duration="102000" />
       <workItem from="1641314342151" duration="19000" />
       <workItem from="1641371911056" duration="2315000" />
-      <workItem from="1641388297075" duration="8232000" />
+      <workItem from="1641388297075" duration="8629000" />
+      <workItem from="1641397130081" duration="63000" />
+      <workItem from="1641398210528" duration="2270000" />
+      <workItem from="1641413499571" duration="257000" />
+      <workItem from="1641414699082" duration="2766000" />
+      <workItem from="1641418646301" duration="6007000" />
+      <workItem from="1641431160798" duration="479000" />
+      <workItem from="1641455660881" duration="194000" />
+      <workItem from="1641455863244" duration="619000" />
+      <workItem from="1641461958493" duration="4518000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;создал скелет+структуру БЭМ&quot;">
       <created>1639694912391</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641297265606</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;фикс замечаний&quot;">
+      <created>1641396638055</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641396638055</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,25 +211,36 @@
     <MESSAGE value="&quot;изменен footer+header+cover переписал весь CSS&quot;" />
     <MESSAGE value="&quot;фикс отступов&quot;" />
     <MESSAGE value="&quot;final fix&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;final fix&quot;" />
+    <MESSAGE value="&quot;фикс замечаний&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;фикс замечаний&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641379277839">
+    <state x="439" y="374" key="#Custom_Plugin_Repositories" timestamp="1641455793824">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
+    <state x="439" y="374" key="#Custom_Plugin_Repositories/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641455793824" />
+    <state x="-1342" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641467106430">
+      <screen x="-1920" y="0" width="1536" height="826" />
+    </state>
+    <state x="-1342" y="255" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.826/0.0.1920.1032@-1920.0.1536.826" timestamp="1641467106430" />
     <state x="723" y="318" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641379277839" />
-    <state x="740" y="258" key="FileChooserDialogImpl" timestamp="1641396577706">
+    <state x="740" y="258" key="FileChooserDialogImpl" timestamp="1641458765974">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="740" y="258" key="FileChooserDialogImpl/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641396577706" />
+    <state x="-1328" y="207" key="FileChooserDialogImpl/-1920.0.1536.826/0.0.1920.1032@-1920.0.1536.826" timestamp="1641417535210" />
+    <state x="740" y="258" key="FileChooserDialogImpl/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641458765974" />
     <state x="748" y="218" key="RollbackChangesDialog" timestamp="1639599176872">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="748" y="218" key="RollbackChangesDialog/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1639599176872" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1641297269211">
+    <state x="61" y="123" key="SettingsEditor" timestamp="1641455807934">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641297269211" />
+    <state x="61" y="123" key="SettingsEditor/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641455807934" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1641396643565">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1641396643565" />
     <state x="777" y="152" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639689113177">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
